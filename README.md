@@ -17,7 +17,7 @@ Aplicativo web de gestión de productos de un restaurante, utilizando Full Stack
 
 ## 📂 Estructura del Proyecto
 
-```bash
+```
 .
 ├── backend-mongodb/
 │   ├── controllers/
@@ -34,7 +34,8 @@ Aplicativo web de gestión de productos de un restaurante, utilizando Full Stack
     │   ├── pages/
     │   ├── App.jsx
     │   └── main.jsx
-
+```
+---
 
 ## ⚙️ Instalación y Ejecución
 
