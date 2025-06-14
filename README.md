@@ -1,4 +1,3 @@
-# Aplucativo web de gestion de productos
 
 # Aplicativo web de gestión de productos
 
@@ -36,7 +35,6 @@ Aplicativo web de gestión de productos de un restaurante, utilizando Full Stack
     │   └── main.jsx
 ```
 
-
 ## ⚙️ Instalación y Ejecución
 
 1. **Clonar repositorio**
@@ -45,13 +43,12 @@ Aplicativo web de gestión de productos de un restaurante, utilizando Full Stack
    cd prueba_tecnica
    ```
 
-### 2. Instalar dependencias del backend y frontend
+2. **Instalar dependencias del backend y frontend**
+   ```bash
+   npm install
+   ```
 
-```bash
-npm install
-```
-
-### 3. Variables de entorno
+3. **Variables de entorno**
 
 ### 📧 Configuración de envío de correos (Gmail)
 
@@ -114,46 +111,21 @@ EMAIL_APP_PASS=tu_contraseña_app
 | DELETE | `/api/productos/:id`       | Eliminar producto     |
 
 ### Préstamos
-| Método | Ruta                          | Descripción                     |
-|--------|-------------------------------|---------------------------------|
-| GET    | `/api/orders`              | Listar  (Admin)        |
-| POST   | `/api/orders/:id`              | editar
+| Método | Ruta                | Descripción          |
+|--------|---------------------|----------------------|
+| GET    | `/api/orders`       | Listar (Admin)       |
+| POST   | `/api/orders/:id`   | Editar orden         |
+
 ---
 
 ## 📸 Capturas de Pantalla
+
 ![Home](./img/home.png)
-
----
-
 ![Admin Panel](./img/adminpanel.png)
-
----
-
 ![Admin Usuarios](./img/usuarios.png)
-
----
-
 ![Admin Productos](./img/productos.png)
-
----
-
 ![Admin Pedidos](./img/pedidos.png)
-
----
-
 ![Admin Pedidos modal](./img/pedidomodal.png)
-
----
-
 ![Admin user](./img/adminuser.png)
-
----
 ![User producto](./img/modal.png)
-
----
-
 ![User Carrito](./img/carrito.png)
-
----
-
-
