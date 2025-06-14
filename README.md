@@ -28,15 +28,13 @@ Aplicativo web de gestion de productos de un restaurante, utilizando Full Stack 
 │
 └── frontend-auth/
     ├── src/
-    |   ├── assets/ 
+    │   ├── assets/
     │   ├── components/
-    |   ├── context/
+    │   ├── context/
     │   ├── pages/
     │   ├── App.jsx
     │   └── main.jsx
-```
 
----
 
 ## ⚙️ Instalación y Ejecución
 
@@ -74,7 +72,7 @@ EMAIL_USER=tu_correo@gmail.com
 EMAIL_APP_PASS=tu_contraseña_app
 ```
 
-5. Abrir en el navegador `http://localhost:5173`
+4. Abrir en el navegador `http://localhost:5173`
 
 ---
 
