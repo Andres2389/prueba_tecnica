@@ -31,7 +31,7 @@ Crea un archivo `.env` con:
 
 ```env
 PORT=5000
-MONGO_URI=mongodb://localhost:27017/auth_db
+MONGO_URI=mongodb+srv://Andres2389:Andres2389@prueba.9ysbmii.mongodb.net/?retryWrites=true&w=majority&appName=prueba
 ```
 
 ## 📁 Estructura base

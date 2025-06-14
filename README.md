@@ -1,23 +1,23 @@
 # Aplucativo web de gestion de productos
 
+# Aplicativo web de gestión de productos
+
 **Desarrollado por:**
-- Andres felipe Ramirez
+- Andrés Felipe Ramírez
 
-
-
-Aplicativo web de gestion de productos de un restaurante, utilizando Full Stack MERN (React + Vite, Node.js + Express, MongoDB) diseñada para la gestión de productos y autentificacion de usuarios con roles. Incluye:
+Aplicativo web de gestión de productos de un restaurante, utilizando Full Stack MERN (React + Vite, Node.js + Express, MongoDB), diseñado para la gestión de productos y autenticación de usuarios con roles. Incluye:
 
 - **Autenticación JWT** (login/registro) con recuperación de contraseña por correo.
-- **Roles**: Administrador y user con layouts y rutas protegidas.
-- **Ordenes** en panel administrativo.
-- **CRUD Productos** con carga y vista previa de imágenes.
-
+- **Roles**: Administrador y usuario con layouts y rutas protegidas.
+- **Órdenes** en panel administrativo.
+- **CRUD de productos** con carga y vista previa de imágenes.
 - **Interfaz responsiva** con TailwindCSS.
 
 ---
 
 ## 📂 Estructura del Proyecto
 
+```bash
 .
 ├── backend-mongodb/
 │   ├── controllers/

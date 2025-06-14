@@ -10,7 +10,7 @@ Este es el frontend del proyecto, desarrollado con **React + Vite + TailwindCSS*
 - Panel de administración con:
   - Tabla de usuarios.
   - Edición de usuarios desde un modal.
-  - Eliminación de usuarios.
+  
 
 ## 📦 Instalación
 
